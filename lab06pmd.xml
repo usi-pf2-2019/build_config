@@ -54,7 +54,7 @@
     <rule ref="category/java/bestpractices.xml/UseAssertSameInsteadOfAssertTrue" />
     <rule ref="category/java/bestpractices.xml/UseAssertTrueInsteadOfAssertEquals" />
     <rule ref="category/java/bestpractices.xml/UseCollectionIsEmpty" />
-    <rule ref="category/java/bestpractices.xml/UseVarargs" />
+    <!-- <rule ref="category/java/bestpractices.xml/UseVarargs" /> -->
     <!-- #end bestpractices -->
 
 
@@ -222,7 +222,7 @@
     <rule ref="category/java/errorprone.xml/AvoidDecimalLiteralsInBigDecimalConstructor" />
     <rule ref="category/java/errorprone.xml/AvoidDuplicateLiterals" />
     <rule ref="category/java/errorprone.xml/AvoidEnumAsIdentifier" />
-    <rule ref="category/java/errorprone.xml/AvoidFieldNameMatchingMethodName" />
+    <!-- <rule ref="category/java/errorprone.xml/AvoidFieldNameMatchingMethodName" /> -->
     <!-- <rule ref="category/java/errorprone.xml/AvoidFieldNameMatchingTypeName" /> -->
     <rule ref="category/java/errorprone.xml/AvoidInstanceofChecksInCatchClause" />
     <rule ref="category/java/errorprone.xml/AvoidLiteralsInIfCondition" />
