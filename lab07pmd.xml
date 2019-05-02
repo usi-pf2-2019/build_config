@@ -101,7 +101,7 @@
     <rule ref="category/java/codestyle.xml/MethodNamingConventions" />
     <!--<rule ref="category/java/codestyle.xml/NoPackage" />-->
     <!-- <rule ref="category/java/codestyle.xml/UseUnderscoresInNumericLiterals" />-->
-    <rule ref="category/java/codestyle.xml/OnlyOneReturn" />
+    <!--<rule ref="category/java/codestyle.xml/OnlyOneReturn" />-->
     <!-- <rule ref="category/java/codestyle.xml/PackageCase" /> -->
     <rule ref="category/java/codestyle.xml/PrematureDeclaration" />
     <rule ref="category/java/codestyle.xml/RemoteInterfaceNamingConvention" />
@@ -242,7 +242,7 @@
     <rule ref="category/java/errorprone.xml/CloneThrowsCloneNotSupportedException" />
     <rule ref="category/java/errorprone.xml/CloseResource" />
     <rule ref="category/java/errorprone.xml/CompareObjectsWithEquals" />
-    <rule ref="category/java/errorprone.xml/ConstructorCallsOverridableMethod" />
+    <!--<rule ref="category/java/errorprone.xml/ConstructorCallsOverridableMethod" />-->
     <!--<rule ref="category/java/errorprone.xml/DataflowAnomalyAnalysis" />-->
     <rule ref="category/java/errorprone.xml/DoNotCallGarbageCollectionExplicitly" />
     <!--<rule ref="category/java/errorprone.xml/DoNotCallSystemExit" />-->
